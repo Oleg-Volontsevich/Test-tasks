@@ -1,3 +1,3 @@
-# SQL_stepik_course
+# Test-tasks
 Репозиторий содержит jupiter notebook c тестовым заданием выполненным на python. 
 Также планирую попробовать справиться силами Excel.
